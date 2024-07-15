@@ -67,8 +67,9 @@ body{
 }
 
 /* responsive media qurey */
-@media screen and (max-width:576){
-    .navbar{
+
+@media screen and (max-width:576px){
+    .display-flex{
         flex-direction: column
     }
     .navbar-links{
